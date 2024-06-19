@@ -29,7 +29,7 @@ I want you to add your favorite artist on the list below
  BABYMETAL
  haruka nakamura
  Eminem
-AKB48
-Aimer
-Lily Allen
-
+ AKB48
+ Kanye West!!
+ Aimer
+ Lily Allen
