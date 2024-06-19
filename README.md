@@ -30,4 +30,6 @@ I want you to add your favorite artist on the list below
  haruka nakamura
  Eminem
 AKB48
+Aimer
 Lily Allen
+
