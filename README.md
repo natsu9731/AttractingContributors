@@ -24,12 +24,12 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 I want you to add your favorite artist on the list below
 
 # Your favorite Artist
- Mrs. GREEN APPLE
- go!go!vanillas
- BABYMETAL
- haruka nakamura
- Eminem
- AKB48
- Kanye West!!
- Aimer
- Lily Allen
+ Mrs. GREEN APPLE <br>
+ go!go!vanillas  <br>
+ BABYMETAL  <br>
+ haruka nakamura  <br>
+ Eminem  <br>
+ AKB48  <br>
+ Kanye West!!  <br>
+ Aimer  <br>
+ Lily Allen  <br>
