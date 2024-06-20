@@ -33,4 +33,5 @@ I want you to add your favorite artist on the list below
  Kanye West!!  <br>
  Aimer  <br>
  Lily Allen  <br>
+rellakinoko <br>
 Alexandros <br>
